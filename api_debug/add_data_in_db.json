@@ -1,0 +1,10 @@
+{
+    "action" : "add_data_in_db",
+    "header" : {},
+    "body" : {
+        "name" : "test1",
+        "address" : "address_1",
+        "phone_number" : 12345677809,
+        "email" : "test.gmail.com"
+    }
+}
